@@ -1,1 +1,1 @@
-This Ruby project implements the bubble sort algorithm.
+This Ruby program implements the bubble sort algorithm.
