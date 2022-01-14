@@ -27,7 +27,7 @@ def bubble_sort(array)
 
       # Skip to the next iteration if the previous and current elements are 
       # equal
-      elsif final_array[index - 1] == element
+      else
         next
       end
     end
