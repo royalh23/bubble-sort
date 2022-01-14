@@ -35,5 +35,3 @@ def bubble_sort(array)
   end
   final_array
 end
-
-p bubble_sort([4, 6, 2, -1, 345, 5, 78, 2, 0 , 3, 3])
